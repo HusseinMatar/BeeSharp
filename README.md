@@ -1,2 +1,31 @@
-# BeeSharp
-🐝 BeeSharp – A quiz-based web application that blends fun learning with real-time scoring, built using Angular &amp; Firebase. Play on words: “Be sharp” and “Bee sharp” – because bees work smart and so should you. 🧠⚡
+# 🐝 BeeSharp
+
+**BeeSharp** is an interactive quiz-based web application built with **Angular** and **Firebase**. The name is a playful combination of “Be Sharp” (stay sharp and focused) and “Bee Sharp” – inspired by the bee: focused, hardworking, and precise.
+
+---
+
+## 🚀 Features
+
+- 🔐 User Authentication (Login / Register)
+- 🧠 Multiple Quiz Categories
+- ⏱️ Timed Questions (5 seconds per question)
+- ✅ Real-Time Score Updates
+- 🏆 Leaderboard for Top 5 Players
+- 🌍 English & Italian Language Support
+- 🔄 Smooth Navigation and Beautiful Responsive UI
+
+---
+
+## 📁 Technologies Used
+
+- **Frontend:** Angular 17+, TypeScript, SCSS
+- **Backend & Hosting:** Firebase (Auth, Firestore, Hosting)
+- **Animations:** Canvas Confetti
+- **Deployment:** Firebase Hosting
+
+---
+
+## 📸 Live Demo
+
+👉 (https://beesharp-bbdce.web.app/home)
+
