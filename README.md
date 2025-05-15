@@ -8,10 +8,9 @@
 
 - 🔐 User Authentication (Login / Register)
 - 🧠 Multiple Quiz Categories
-- ⏱️ Timed Questions (5 seconds per question)
+- ⏱️ Timed Questions
 - ✅ Real-Time Score Updates
 - 🏆 Leaderboard for Top 5 Players
-- 🌍 English & Italian Language Support
 - 🔄 Smooth Navigation and Beautiful Responsive UI
 
 ---
